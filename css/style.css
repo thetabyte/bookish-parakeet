@@ -83,8 +83,6 @@ h1{
     border-radius: 5px;
 }
 .line{
-    display: flex;
-    height: 0px;
     width: 67.5px;
     left: 710px;
     top: 221px;
